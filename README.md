@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msafwankarim&label=Profile%20views&color=0e75b6&style=flat" alt="msafwankarim" /> </p>
 
-- 🌱 I’m currently learning **.NET Core & Microservice architecture**
+- 🌱 I’m currently learning **Golang & Microservice architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/msafwankarim](https://github.com/msafwankarim)
 
