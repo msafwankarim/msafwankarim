@@ -12,7 +12,7 @@ I build scalable backend systems, optimize performance, and create customized e-
 
 ## 🚀 About Me  
 - 🖥 **Backend Development**: .NET, Golang, Java (Spring Boot)  
-- ⚡ **High-Performance Systems**: Experience with caching, Channels, thread pools, socket communication, and Redis-like optimizations.  
+- ⚡ **High-Performance Systems**: Experience with caching, Channels, thread pools, socket communication, and distributed system softwares like Redis, NCache, RabbitMQ etc.
 - 🛒 **E-Commerce Development**: Shopify store setup, customization, and speed optimization (250+ projects completed, 188 reviews, ⭐ 4.9 rating).  
 - ☁ **Cloud & Kubernetes**: Kubernetes Operator development, EKS/AKS multi-tenancy, OpenShift integration.  
 - 📦 **Database Skills**: Oracle, SQL Server, PostgreSQL.  
