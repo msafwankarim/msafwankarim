@@ -1,4 +1,7 @@
 <!-- Typing SVG -->
+
+https://docs.google.com/presentation/d/1HyoRFbu31k-qEElmJP1QZeOBIkndnP9LSZobeXfolPk/edit?usp=sharing
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDAE&width=600&lines=Hi%2C+I'm+Muhammad+Safwan+Karim!;Software+Engineer+%7C+Backend+Developer;Shopify+Expert+%7C+Kubernetes+Enthusiast;Lifelong+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=msafwankarim&style=for-the-badge)
